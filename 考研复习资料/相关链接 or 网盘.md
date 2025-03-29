@@ -14,6 +14,8 @@
 - 25版
 - 26版
 
+[思维导图](https://gitee.com/ShengSanYi/CS-Xmind-Note/tree/master)(五年前上传)
+
 # 英语
 
 [单词书电子扫描版pdf](https://pan.quark.cn/s/1bb4cac85091#/list/share)

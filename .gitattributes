@@ -1,1 +1,7 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
+*2026操作系统.pdf filter=lfs diff=lfs merge=lfs -text
+*2026计算机网络.pdf filter=lfs diff=lfs merge=lfs -text
+*2026计算机组成原理.pdf filter=lfs diff=lfs merge=lfs -text
+*2026数据结构.pdf filter=lfs diff=lfs merge=lfs -text
+*26考研词汇闪过.pdf filter=lfs diff=lfs merge=lfs -text
+*0-红宝书本体.pdf filter=lfs diff=lfs merge=lfs -text
+*01-考研词汇精缩版.pdf filter=lfs diff=lfs merge=lfs -text
